@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/library-skills/commit/114fa2c3b1a54177d3166669b7eae15a70d66467",
       "git:hexsha": "114fa2c3b1a54177d3166669b7eae15a70d66467",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/library-skills/commit/da5c7f1ec57973cb8d6b5ee68b304581283aa4f3",
